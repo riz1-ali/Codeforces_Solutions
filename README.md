@@ -1,2 +1,2 @@
 # Codeforces_Solutions
-Codeforces Username: rizwanali
+Codeforces Username: riz_1_
